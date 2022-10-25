@@ -56,7 +56,7 @@ h3{
     margin-bottom: 10px;
 }
 
-.disc{
+.album{
     width: 50%;
     margin: auto;
 }
@@ -88,7 +88,7 @@ span{
         font-size: 18px;
     }
 
-    .disc{
+    .album{
         width: 90%;
     }
 
